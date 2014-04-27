@@ -7,8 +7,10 @@ put the R script run_analysis.R into your wd.
 
 runs R console
 
-start script with source ("run_analysis.R")
+change to wd 
 
-you will find the output files "tidy_data" and "tidy_data_plus" in your wd
+start script with source("run_analysis.R")
+
+you will find the output files "tidy_data.txt" and "tidy_data_plus.txt" in your wd
 
 the script is more or less its own documentation.
